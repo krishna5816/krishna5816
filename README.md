@@ -14,7 +14,7 @@ I build and guide technology solutions from product planning and development thr
 
 ## Experience
 
-- **CEO / CTO**, Dairy Co Technology Pvt. Ltd. — technology leadership, product direction, operations, and client delivery
+- **CEO**, Dairy Co Technology Pvt. Ltd. — business strategy, product direction, operations, and client delivery
 - **COO**, Need Technosoft Pvt. Ltd. (2021–2023)
 - **.NET Developer**, Need Technosoft Pvt. Ltd. (2017–2021)
 - Technology consultant for EHazir and Marga Track Nepal
