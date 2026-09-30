@@ -1,6 +1,6 @@
 # Hi, I'm Krishna Kumar Rai 👋
 
-**CEO & CTO at Dairy Co Technology Pvt. Ltd.** | Software and technology entrepreneur based in Biratnagar, Nepal.
+**CEO at Dairy Co Technology Pvt. Ltd.** | Software and technology entrepreneur based in Biratnagar, Nepal.
 
 I build and guide technology solutions from product planning and development through implementation and support. My background spans .NET development, software operations, technology strategy, consulting, and digital transformation.
 
